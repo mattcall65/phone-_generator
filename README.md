@@ -4,7 +4,7 @@ generates random phone numbers based on user input
 This script was written in C.
 
 
-To run, go to the directory where you downloaded the executable, and run ./phone/#s in the terminal
+To run, go to the directory where you downloaded the executable, and run ./phone\#s in the terminal
 
 
 You could also run this in Windows using the Linux subsystem for windows or a program such as mobaxterm.
