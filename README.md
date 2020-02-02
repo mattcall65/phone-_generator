@@ -7,7 +7,7 @@ This script was written in C.
 To run, go to the directory where you downloaded the executable, and run ./phone\#s in the terminal
 (there is supposed to be a forward slash after the 'e' in "phone".
 
-You could also run this in Windows using the Linux subsystem for windows or a program such as mobaxterm.
+You could also run this in Windows using the Linux subsystem for windows or another program such as mobaxterm.
 
 
 
